@@ -1,5 +1,7 @@
 ## Hey! Nice to see you.
 
+Welcome to my page!
+I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stockholm, Sweden.
 <!--
 **lieljack/lieljack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
